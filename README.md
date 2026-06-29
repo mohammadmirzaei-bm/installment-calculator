@@ -90,10 +90,3 @@ pip install streamlit pandas
 فایل اصلی برنامه را با دستور زیر اجرا کنید:
 
 streamlit run aghsat1_improved.py
-
-
-📂 ساختار فایل‌های پروژه
-
-├── aghsat1_improved.py     # کد منبع اصلی نرم‌افزار Streamlit
-├── README.md               # شناسنامه و راهنمای علمی پروژه
-└── .gitignore              # فایل‌های نادیده‌گرفته شده توسط گیت
